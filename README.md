@@ -26,7 +26,6 @@ Params : JSON {name, email, password}
 Method : POST
 <br>
 Params : form-data {file, name, description, price}
-Disini user dapat mengupload data produk yang akan mereka jual pada e-commerce
 ![back-end-addproduct](ss/postman-addproduct.png)
 ### 4. Tes Get Product pada Postman
 Method : GET
@@ -38,3 +37,7 @@ Method : DELETE
 <br>
 Params : {id}
 ![back-end-delete](ss/postman-deleteproduct.png)
+
+<br>
+### Note 
+Front-End sudah tersambung ke Backend, untuk menjalankan buatlah database pada localhost dan sesuaikan dengan kode diatas
