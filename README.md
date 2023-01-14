@@ -37,7 +37,8 @@ Method : DELETE
 <br>
 Params : {id}
 ![back-end-delete](ss/postman-deleteproduct.png)
-
 <br>
+
 ### Note 
+
 Front-End sudah tersambung ke Backend, untuk menjalankan buatlah database pada localhost dan sesuaikan dengan kode diatas
